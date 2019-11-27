@@ -1,6 +1,8 @@
 # Hyperblog
+
 Platzi Git and GitHub course
 
-# Plesae watch
+## Please Watch
+
 For a large file storage in GitHub use:
-https://git-lfs.github.com/
+[git-lfs](https://git-lfs.github.com/)
