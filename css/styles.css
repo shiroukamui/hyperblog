@@ -44,6 +44,7 @@ body {
 #post {
     background: darkslategrey;
     padding: 1em;
+    text-align: center;
 }
 
 #footer {
@@ -51,4 +52,5 @@ body {
     color: #f0f8ff;
     text-align: center;
     padding: 6px;
+}
 }
