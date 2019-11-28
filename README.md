@@ -30,4 +30,5 @@ Tip 1
 ## Tricks
 
 Trick 1\
-Trick 2
+Trick 2\
+Trick 3
