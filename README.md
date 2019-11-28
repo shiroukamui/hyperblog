@@ -22,3 +22,7 @@ For a large file storage in GitHub use:
 ## Warning
 
 This *README* is a joke. It was designed as an example. **This Is Not a Serious Matter.**
+
+## Another Thing
+
+Thing
