@@ -23,6 +23,14 @@ For a large file storage in GitHub use:
 
 This *README* is a joke. It was designed as an example. **This Is Not a Serious Matter.**
 
+<<<<<<< HEAD
 ## Another Thing
 
 Thing
+=======
+## Other Things
+
+Thing 1
+Thing 2
+Thing 3
+>>>>>>> readme
