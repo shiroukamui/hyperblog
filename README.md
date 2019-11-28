@@ -25,4 +25,6 @@ This *README* is a joke. It was designed as an example. **This Is Not a Serious 
 
 ## Another Thing
 
-Thing
+Thing 1
+Thing 2
+Thing 3
