@@ -25,7 +25,12 @@ This *README* is a joke. It was designed as an example. **This Is Not a Serious 
 
 ## Tips
 
-Tip 1
+Tip 1\
+Tip 2\
+Tip 3\
+Tip 4\
+Tip 5\
+Tip 6
 
 ## Tricks
 
